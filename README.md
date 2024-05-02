@@ -1,0 +1,7 @@
+- 👋 Hi, I’m sajjad
+- 👀 I’m interested in many part of programming plus CTF challenges
+- 🌱 I’m currently learning CTF challenges, wpf, .net and c# programming and maybe c++, c or rust in the future
+- 💞️ I’m really looking for CTF partner
+- 📫 How to reach me? through my telelgram id: https://t.me/sajjad_moh
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: you see my profile!
